@@ -1,7 +1,14 @@
+#!/usr/bin/env python
 import Tkinter as tk
 from collections import defaultdict
 import json
 
+"""
+CityInfoMap class to create a simple GUI using existing data
+and Tkinter
+
+@author: SP
+"""
 
 class CityInfoMap:
 

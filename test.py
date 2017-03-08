@@ -3,9 +3,14 @@ from Question2 import convert
 from Question4 import find_min
 import unittest
 
+"""
+TestAssignment to unit test all the scripts
 
-class MyTest(unittest.TestCase):
+@author: SP
+"""
 
+
+class TestAssignment(unittest.TestCase):
     def test_question1(self):
         """
         Test case for Question1
